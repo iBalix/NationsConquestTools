@@ -1,0 +1,8 @@
+name: NationsConquestTools
+main: main.java.fr.ng.ibalix.nationsconquesttools.NationsConquestTools
+version: 1.0
+author: iBalix
+commands:
+   test:
+      description: Commande test
+      usage: /kitelite

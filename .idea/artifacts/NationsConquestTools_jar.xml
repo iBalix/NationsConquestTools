@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NationsConquestTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NationsConquestTools_jar</output-path>
+    <root id="archive" name="NationsConquestTools.jar">
+      <element id="module-output" name="NationsConquestTools" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/bukkit-1.7.9-R0.1-20140501.232652-9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/Vault.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

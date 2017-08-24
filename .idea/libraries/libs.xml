@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/bukkit-1.7.9-R0.1-20140501.232652-9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Vault.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
